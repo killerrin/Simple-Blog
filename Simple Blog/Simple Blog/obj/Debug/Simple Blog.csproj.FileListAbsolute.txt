@@ -1,0 +1,33 @@
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\roslyn\csc.exe
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\roslyn\System.Collections.Immutable.dll
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\roslyn\vbc.exe
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\roslyn\VBCSCompiler.exe
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\roslyn\VBCSCompiler.exe.config
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\Simple Blog.dll.config
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\Simple Blog.dll
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\Simple Blog.pdb
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\Microsoft.Web.Infrastructure.dll
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\System.Web.Helpers.dll
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\System.Web.Mvc.dll
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\System.Web.Razor.dll
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\System.Web.Webpages.Deployment.dll
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\System.Web.Webpages.dll
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\System.Web.Webpages.Razor.dll
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\System.Web.Razor.xml
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\System.Web.Webpages.xml
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\System.Web.Webpages.Deployment.xml
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\System.Web.Webpages.Razor.xml
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\System.Web.Helpers.xml
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin\System.Web.Mvc.xml
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\obj\Debug\Simple Blog.csprojResolveAssemblyReference.cache
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\obj\Debug\Simple Blog.dll
+c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\obj\Debug\Simple Blog.pdb
