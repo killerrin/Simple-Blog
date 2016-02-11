@@ -16,6 +16,8 @@ namespace Simple_Blog
 
             var namespaces = new[] { typeof(PostsController).Namespace };
             routes.MapRoute("Login", "login", new { controller = "Auth", Action = "Login" }, namespaces);
+            routes.MapRoute("Logout", "logout", new { controller = "Auth", Action = "Logout" }, namespaces);
+
             routes.MapRoute("Home", "", new { controller = "Posts", action = "Index" }, namespaces);
         }
     }
