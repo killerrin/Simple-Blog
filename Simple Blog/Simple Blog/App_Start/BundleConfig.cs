@@ -7,7 +7,7 @@ using System.Web.Optimization;
 
 namespace Simple_Blog.App_Start
 {
-    public class BundleConfig
+    public static class BundleConfig
     {
         public static void RegisterBundles(BundleCollection bundles)
         {
@@ -23,7 +23,8 @@ namespace Simple_Blog.App_Start
                 .Include("~/scripts/jquery-2.2.0.js")
                 .Include("~/scripts/jquery.validate.js")
                 .Include("~/scripts/jquery.validate.unobtrusive.js")
-                .Include("~/scripts/bootstrap.js"));
+                .Include("~/scripts/bootstrap.js")
+                .Include("~/areas/admin/scripts/forms.js"));
 
             bundles.Add(new ScriptBundle("~/scripts")
                 .Include("~/scripts/jquery-2.2.0.js")

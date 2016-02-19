@@ -31,8 +31,6 @@ c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\bin
 c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\obj\Debug\Simple Blog.csprojResolveAssemblyReference.cache
 c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\obj\Debug\Simple Blog.dll
 c:\users\andre\documents\visual studio 2015\Projects\Simple Blog\Simple Blog\obj\Debug\Simple Blog.pdb
-C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\obj\Debug\Simple Blog.dll
-C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\obj\Debug\Simple Blog.pdb
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\roslyn\csc.exe
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -45,29 +43,41 @@ C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\roslyn\S
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\roslyn\vbc.exe
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\roslyn\VBCSCompiler.exe
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\Simple Blog.dll.config
-C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\Simple Blog.dll
-C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\Simple Blog.pdb
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\SimpleBlog.dll.config
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\SimpleBlog.dll
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\SimpleBlog.pdb
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\Antlr3.Runtime.dll
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\FluentMigrator.dll
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\Newtonsoft.Json.dll
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\System.Web.Helpers.dll
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\System.Web.Mvc.dll
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\System.Web.Optimization.dll
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\System.Web.Razor.dll
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\System.Web.Webpages.Deployment.dll
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\System.Web.Webpages.dll
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\System.Web.Webpages.Razor.dll
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\WebGrease.dll
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\Antlr3.Runtime.pdb
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\FluentMigrator.pdb
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\FluentMigrator.xml
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\Newtonsoft.Json.xml
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\System.Web.Optimization.xml
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\System.Web.Razor.xml
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\System.Web.Webpages.xml
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\System.Web.Webpages.Deployment.xml
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\System.Web.Webpages.Razor.xml
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\System.Web.Helpers.xml
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\System.Web.Mvc.xml
-C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\obj\Debug\Simple Blog.csprojResolveAssemblyReference.cache
-C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\Antlr3.Runtime.dll
-C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\Newtonsoft.Json.dll
-C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\System.Web.Optimization.dll
-C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\WebGrease.dll
-C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\Antlr3.Runtime.pdb
-C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\Newtonsoft.Json.xml
-C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\System.Web.Optimization.xml
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\obj\Debug\SimpleBlog.dll
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\obj\Debug\SimpleBlog.pdb
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\Iesi.Collections.dll
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\MySql.Data.dll
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\NHibernate.dll
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\Iesi.Collections.xml
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\NHibernate.xml
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\BCrypt.Net.dll
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\BCrypt.Net.pdb
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\BCrypt.Net.xml

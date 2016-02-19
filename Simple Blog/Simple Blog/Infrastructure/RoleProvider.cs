@@ -1,16 +1,13 @@
 using System;
+using System.Linq;
 
 namespace Simple_Blog.Infrastructure
 {
 	public class RoleProvider : System.Web.Security.RoleProvider
 	{
-
 		public override string[] GetRolesForUser(string username)
 		{
-			if (username == "admin")
-				return new[] { "admin" };
-
-			return new string[] { };
+			return Auth.User.Roles.Select(role => role.Name).ToArray();
 		}
 
 		#region Not Implemented
