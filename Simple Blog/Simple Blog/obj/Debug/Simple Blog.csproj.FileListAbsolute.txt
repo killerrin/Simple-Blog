@@ -81,3 +81,4 @@ C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\NHiberna
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\BCrypt.Net.dll
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\BCrypt.Net.pdb
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\BCrypt.Net.xml
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\obj\Debug\Simple Blog.csprojResolveAssemblyReference.cache
