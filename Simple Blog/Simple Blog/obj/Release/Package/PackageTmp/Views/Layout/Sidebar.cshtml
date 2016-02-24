@@ -1,0 +1,69 @@
+﻿@model Simple_Blog.ViewModels.LayoutSidebar
+
+@{
+    Layout = null;
+}
+
+<div class="panel panel-success">
+    <div class="panel-heading">About Me</div>
+    <div class="panel-body">
+        I am a person and I do things.
+    </div>
+</div>
+
+@if (Model.Tags.Any())
+{
+    var maxPostsInTag = Model.Tags.Max(t => t.PostCount);
+
+    <div class="panel panel-info tags">
+        <div class="panel-heading">Tags</div>
+        <div class="panel-body">
+            <div class="list-group">
+                @foreach (var tag in Model.Tags)
+                {
+                    var percent = Math.Ceiling((float)tag.PostCount / maxPostsInTag * 100);
+
+                    <a href="@Url.RouteUrl("Tag", new{tag.ID, tag.Slug})" class="list-group-item">
+                        <span class="name">@tag.Name</span>
+                        <span class="badge">@tag.PostCount</span>
+                        <span class="progress">
+                            <span class="progress-bar progress-bar-info" style="width: @percent%"></span>
+                        </span>
+                    </a>
+                }
+            </div>
+        </div>
+    </div>
+}
+
+@if (Model.IsLoggedIn)
+{
+    <div class="panel panel-default">
+        <div class="panel-heading">Welcome Back, @Model.Username! | <a href="@Url.RouteUrl("logout")">Logout</a></div>
+        <div class="panel-body">
+            @if (Model.IsAdmin)
+            {
+                <div class="btn-group btn-group-sm">
+                    <a href="@Url.Action("index", "posts", new { area = "admin" })" class="btn btn-default">Posts</a>
+                    <button class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                        <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="@Url.Action("new", "posts", new { area = "admin" })">Create Post</a>
+                        </li>
+                    </ul>
+                </div>
+            }
+        </div>
+    </div>
+}
+else
+{
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <a href="@Url.RouteUrl("login")">Login</a>
+        </div>
+        <div class="panel-body"></div>
+    </div>
+}

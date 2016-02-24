@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MainDb-Web.config Connection String" description="MainDb Connection String used in web.config by the application to access the database." defaultValue="Server=localhost;Database=simpleblog_dev;User ID=root;Password=password;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\andre\\Documents\\GitHub\\Simple-Blog\\Simple\ Blog\\Simple\ Blog\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MainDb']/@connectionString" />
+  </parameter>
+</parameters>

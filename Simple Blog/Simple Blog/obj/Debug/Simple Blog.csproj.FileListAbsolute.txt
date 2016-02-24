@@ -82,3 +82,4 @@ C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\BCrypt.N
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\BCrypt.Net.pdb
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\BCrypt.Net.xml
 C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\obj\Debug\Simple Blog.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\GitHub\Simple-Blog\Simple Blog\Simple Blog\bin\Elmah.dll

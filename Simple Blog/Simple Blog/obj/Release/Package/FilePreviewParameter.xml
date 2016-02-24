@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="simpleblog.dev" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\andre\\Documents\\GitHub\\Simple-Blog\\Simple\ Blog\\Simple\ Blog\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\andre\\Documents\\GitHub\\Simple-Blog\\Simple\ Blog\\Simple\ Blog\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="MainDb-Web.config Connection String" description="" value="Server=localhost;Database=simpleblog_dev;User ID=root;Password=password;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\andre\\Documents\\GitHub\\Simple-Blog\\Simple\ Blog\\Simple\ Blog\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MainDb']/@connectionString" />
+  </parameter>
+</parameters>
